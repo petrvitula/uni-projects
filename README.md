@@ -13,15 +13,15 @@
 
 ## 2. semestr (5. 2. 2024 – 3. 5. 2024)
 
-- IOS - Elektronika pro informační technologie	
+- IOS - Operační systémy
   - [Projekt](https://github.com/petrvitula/iel_projekt)
-- IZLO - Úvod do softwarového inženýrství
+- IZLO - Základy logiky pro informatiky
   - [Úkol](https://github.com/petrvitula/ius_ukol)
   - [Projekt](https://github.com/petrvitula/ius_projekt)
-- ITY - Základy programování
+- ITY - Typografie a publikování
   - [Projekt 1](https://github.com/petrvitula/izp_project_1)
   - [Projekt 2](https://github.com/petrvitula/izp_project_2)
-- INC - Základy programování
+- INC - Návrh číslicových systémů
   - [Projekt 1](https://github.com/petrvitula/izp_project_1)
-- IZG - Základy programování
+- IZG - Základy počítačové grafiky
   - [Projekt 1](https://github.com/petrvitula/izp_project_1)
