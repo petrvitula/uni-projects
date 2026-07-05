@@ -1,27 +1,63 @@
 # 🗺️ Rozcestník všech mých projektů a úkolů na VUT FIT
 
-## 1. semestr (20. 9. 2023 – 17. 12. 2023)
+Přehled všech projektů a úkolů z předmětů na FIT VUT, seřazeno podle zkratky předmětu.
 
-- IEL - Elektronika pro informační technologie	
+- **IAL** – Algoritmy
+  - [Projekt 1](https://github.com/petrvitula/ial_projekt_1)
+  - [Projekt 2](https://github.com/petrvitula/ial_projekt_2)
+- **ICP**
+  - [Projekt](https://github.com/petrvitula/icp_projekt)
+- **ICS**
+  - [Projekt](https://github.com/petrvitula/ics-project)
+- **IDS** – Databázové systémy
+  - [Projekt](https://github.com/petrvitula/ids_projekt)
+- **IEL** – Elektronika pro informační technologie
   - [Projekt](https://github.com/petrvitula/iel_projekt)
-- IUS - Úvod do softwarového inženýrství
+- **IFJ** – Formální jazyky a překladače
+  - [Projekt](https://github.com/petrvitula/IFJ_projekt)
+- **IMP** – Mikroprocesorové a vestavěné systémy
+  - [Projekt (ESP)](https://github.com/petrvitula/imp_projekt_esp)
+- **IMS** – Modelování a simulace
+  - [Projekt](https://github.com/petrvitula/ims-projekt-2025)
+- **INC** – Návrh číslicových systémů
+  - [Projekt](https://github.com/petrvitula/inc_projekt)
+- **INP** – Návrh počítačů
+  - [Projekt 1](https://github.com/petrvitula/inp_projekt_1)
+  - [Projekt 2](https://github.com/petrvitula/inp_projekt_2)
+- **IOS** – Operační systémy
+  - [Projekt](https://github.com/petrvitula/ios_project_1)
+- **IPK** – Počítačové komunikace a sítě *(opakovaný předmět, dva ročníky)*
+  - 2025: [Projekt 1 – Omega](https://github.com/petrvitula/ipk_projekt1_omega), [Projekt 2 – Chat](https://github.com/petrvitula/ipk_projekt2_chat)
+  - 2026: [Projekt 1 – Delta](https://github.com/petrvitula/ipk-project1-delta), [Projekt 2 – RDT](https://github.com/petrvitula/ipk-project2-rdt)
+- **IPP** – Principy programovacích jazyků a OOP
+  - [Projekt 1](https://github.com/petrvitula/ipp_projekt_1)
+  - [Projekt 2](https://github.com/petrvitula/ipp_projekt_2)
+- **ISJ** – Skriptovací jazyky
+  - [Projekty](https://github.com/petrvitula/isj_projekty)
+- **ISS** – Signály a systémy
+  - [Projekt](https://github.com/petrvitula/iss_projekt)
+- **ITU** – Tvorba uživatelských rozhraní
+  - [Projekt](https://github.com/petrvitula/itu_project)
+- **ITY** – Typografie a publikování
+  - [Projekt 1](https://github.com/petrvitula/ity_projekt_1)
+  - [Projekt 2](https://github.com/petrvitula/ity_projekt_2)
+  - [Projekt 3](https://github.com/petrvitula/ity_projekt_3)
+  - [Projekt 4](https://github.com/petrvitula/ity_projekt_4)
+  - [Projekt 5](https://github.com/petrvitula/ity_projekt_5)
+- **IUS** – Úvod do softwarového inženýrství
   - [Úkol](https://github.com/petrvitula/ius_ukol)
   - [Projekt](https://github.com/petrvitula/ius_projekt)
-- IZP - Základy programování
+- **IVS**
+  - [Projekt](https://github.com/petrvitula/ivs_project)
+- **IZG** – Základy počítačové grafiky
+  - [Cvičení](https://github.com/petrvitula/izg_labs)
+- **IZLO** – Základy logiky pro informatiky
+  - [Projekt 1](https://github.com/petrvitula/izlo_projekt_1)
+  - [Projekt 2](https://github.com/petrvitula/izlo_projekt_2)
+- **IZP** – Základy programování
   - [Projekt 1](https://github.com/petrvitula/izp_project_1)
   - [Projekt 2](https://github.com/petrvitula/izp_project_2)
-
-## 2. semestr (5. 2. 2024 – 3. 5. 2024)
-
-- IOS - Operační systémy
-  - [Projekt](https://github.com/petrvitula/iel_projekt)
-- IZLO - Základy logiky pro informatiky
-  - [Úkol](https://github.com/petrvitula/ius_ukol)
-  - [Projekt](https://github.com/petrvitula/ius_projekt)
-- ITY - Typografie a publikování
-  - [Projekt 1](https://github.com/petrvitula/izp_project_1)
-  - [Projekt 2](https://github.com/petrvitula/izp_project_2)
-- INC - Návrh číslicových systémů
-  - [Projekt 1](https://github.com/petrvitula/izp_project_1)
-- IZG - Základy počítačové grafiky
-  - [Projekt 1](https://github.com/petrvitula/izp_project_1)
+- **IZU** – Základy umělé inteligence
+  - [Projekty](https://github.com/petrvitula/izu_projekty)
+- **IZV** – Získávání znalostí z databází
+  - [Projekty](https://github.com/petrvitula/izv_projekty)
